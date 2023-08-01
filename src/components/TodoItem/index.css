@@ -1,0 +1,17 @@
+.buttons {
+  background-color: transparent;
+  border: 2px solid #ff0b37;
+  padding: 2px;
+  width: 5vw;
+  height: 5vh;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.todo-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
